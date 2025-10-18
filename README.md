@@ -69,9 +69,6 @@ Run locally or open directly in **Google Colab**:
 notebooks/AQSA_PDCL_FINAL_CODE.ipynb
 ```
 
-⚠️ **Note:** You can simply run the notebook in **Google Colab** — pretrained models can be saved in the `models/` folder for reuse.  
-Make sure to **import and load the correct `.h5` file** before evaluation.
-
 ---
 
 ## 📈 Results
@@ -114,7 +111,6 @@ The notebook includes:
 - Predicted vs Actual Temperature comparison  
 - Seasonal trend visualization  
 
-All plots are automatically saved in the `report/` folder.
 
 ---
 

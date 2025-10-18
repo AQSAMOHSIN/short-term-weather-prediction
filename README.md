@@ -8,23 +8,7 @@
 A deep-learning approach to short-term temperature forecasting using **LSTM** and **GRU** recurrent neural networks.  
 Developed as part of the *Practical Deep Learning for Climate Data* course (July 2025).
 
-📄 Full technical report → [report/AQSA_PDCL_FINAL_REPORT.pdf](./AQSA_PDCL_FINAL_REPORT.pdf)
-
----
-
-## 📁 Project Structure
-
-```
-short-term-weather-prediction/
-├── notebooks/
-│   └── AQSA_PDCL_FINAL_CODE.ipynb        # Main notebook (training + evaluation)
-├── report/
-│   └── AQSA_PDCL_FINAL_REPORT.pdf        # Final report
-├── data/                                 # Dataset folder (optional; auto-downloaded)
-├── models/                               # Saved models (.h5 if exported)
-├── .gitignore
-└── README.md
-```
+📄 Full technical report → [/AQSA_PDCL_FINAL_REPORT.pdf](./AQSA_PDCL_FINAL_REPORT.pdf)
 
 ---
 
